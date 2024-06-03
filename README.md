@@ -15,6 +15,7 @@ Welcome to the Bezier and B-Spline Toolkit, an open-source library designed for 
 Clone this repository to your local machine using:
 
 ## Documentation
+check example.py for examples of how to use the functions listed
 
 ## Contributing
 
